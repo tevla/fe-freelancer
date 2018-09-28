@@ -1,0 +1,192 @@
+{
+	"Products": {
+		"List": [{
+				"Index": 1,
+				"ProductId": 13286547,
+				"DesignerName": "Stand",
+				"ProductUrl": "/uk/shopping/women/stand-leopard-collar-faux-leather-jacket-item-13286547.aspx?storeid=9319&from=listing",
+				"ImageMain": "https://cdn-images.farfetch-contents.com/13/28/65/47/13286547_14825097_255.jpg",
+				"ImageHover": "https://cdn-images.farfetch-contents.com/13/28/65/47/13286547_14825099_255.jpg",
+				"Description": "leopard collar faux-leather jacket",
+				"PriceDisplay": "£319",
+				"PriceSaleDisplay": null,
+				"PercentageOff": null,
+				"PriceWithInstallmentsDisplay": null,
+				"StoreId": 9319,
+				"StoreCountry": null,
+				"Tag": 1,
+				"TagLabel": "New Season",
+				"StockTotal": 2,
+				"DepartmentId": 2921,
+				"AddToWishlistUrl": "/uk/ListingPage/AddToWishlist?productid=13286547&storeid=9319&wishlistitemid=0",
+				"RemoveFromWishlistUrl": "/uk/ListingPage/RemoveFromWishlist?productid=13286547&storeid=9319",
+				"Sale": false,
+				"IsCustomizable": false,
+				"IsCustomizableLabel": "",
+				"RankedManually": false,
+				"AvailableSizes": [{
+						"ScaleId": 0,
+						"Size": "M"
+					},
+					{
+						"ScaleId": 0,
+						"Size": "S"
+					}
+				],
+				"ScaleFriendlyName": "Size (Standard)",
+				"HasAvailableSizes": true,
+				"HasSimilarProducts": true,
+				"SchemaPrice": 319,
+				"SchemaCurrency": "GBP",
+				"SimiliarProductsLabel": "More like this",
+				"SimilarityUrl": "/uk/shopping/women/similarity/items.aspx?productid=13286547",
+				"TargetAttributeValue": "_self"
+			},
+			{
+				"Index": 2,
+				"ProductId": 12964439,
+				"DesignerName": "Gucci",
+				"ProductUrl": "/uk/shopping/women/gucci-medium-double-shoulder-bag-item-12964439.aspx?storeid=10524&from=listing",
+				"ImageMain": "https://cdn-images.farfetch-contents.com/12/96/44/39/12964439_13598259_255.jpg",
+				"ImageHover": "https://cdn-images.farfetch-contents.com/12/96/44/39/12964439_13598260_255.jpg",
+				"Description": "Medium double shoulder bag",
+				"PriceDisplay": "£2,050",
+				"PriceSaleDisplay": null,
+				"PercentageOff": null,
+				"PriceWithInstallmentsDisplay": null,
+				"StoreId": 10524,
+				"StoreCountry": null,
+				"Tag": 1,
+				"TagLabel": "New Season",
+				"StockTotal": 42,
+				"DepartmentId": 2921,
+				"AddToWishlistUrl": "/uk/ListingPage/AddToWishlist?productid=12964439&storeid=10524&wishlistitemid=0",
+				"RemoveFromWishlistUrl": "/uk/ListingPage/RemoveFromWishlist?productid=12964439&storeid=10524",
+				"Sale": false,
+				"IsCustomizable": false,
+				"IsCustomizableLabel": "",
+				"RankedManually": false,
+				"AvailableSizes": [{
+					"ScaleId": 0,
+					"Size": "One Size"
+				}],
+				"ScaleFriendlyName": "Size (Standard)",
+				"HasAvailableSizes": true,
+				"HasSimilarProducts": true,
+				"SchemaPrice": 2050,
+				"SchemaCurrency": "GBP",
+				"SimiliarProductsLabel": "More like this",
+				"SimilarityUrl": "/uk/shopping/women/similarity/items.aspx?productid=12964439",
+				"TargetAttributeValue": "_self"
+			},
+			{
+				"Index": 3,
+				"ProductId": 12832413,
+				"DesignerName": "Gucci Eyewear",
+				"ProductUrl": "/uk/shopping/women/proenza-schouler-tiger-print-cami-dress-item-12832413.aspx?storeid=10215&from=listing",
+				"ImageMain": "https://cdn-images.farfetch-contents.com/12/83/24/13/12832413_14843944_255.jpg",
+				"ImageHover": "https://cdn-images.farfetch-contents.com/12/83/24/13/12832413_14843943_255.jpg",
+				"Description": "Tiger Print Cami Dress",
+				"PriceDisplay": "£1,915",
+				"PriceSaleDisplay": null,
+				"PercentageOff": null,
+				"PriceWithInstallmentsDisplay": null,
+				"StoreId": 10215,
+				"StoreCountry": null,
+				"Tag": 1,
+				"TagLabel": "New Season",
+				"StockTotal": 7,
+				"DepartmentId": 2921,
+				"AddToWishlistUrl": "/uk/ListingPage/AddToWishlist?productid=12832413&storeid=10215&wishlistitemid=0",
+				"RemoveFromWishlistUrl": "/uk/ListingPage/RemoveFromWishlist?productid=12832413&storeid=10215",
+				"Sale": false,
+				"IsCustomizable": false,
+				"IsCustomizableLabel": "",
+				"RankedManually": false,
+				"AvailableSizes": [{
+						"ScaleId": 0,
+						"Size": "L"
+					},
+					{
+						"ScaleId": 0,
+						"Size": "M"
+					},
+					{
+						"ScaleId": 0,
+						"Size": "S"
+					},
+					{
+						"ScaleId": 0,
+						"Size": "XS"
+					},
+					{
+						"ScaleId": 0,
+						"Size": "XXS"
+					}
+				],
+				"ScaleFriendlyName": "Size (Standard)",
+				"HasAvailableSizes": true,
+				"HasSimilarProducts": true,
+				"SchemaPrice": 1915,
+				"SchemaCurrency": "GBP",
+				"SimiliarProductsLabel": "More like this",
+				"SimilarityUrl": "/uk/shopping/women/similarity/items.aspx?productid=12832413",
+				"TargetAttributeValue": "_self"
+			},
+			{
+				"Index": 18,
+				"ProductId": 13002704,
+				"DesignerName": "Attico",
+				"ProductUrl": "/uk/shopping/women/attico-silk-draped-maxi-dress-item-13002704.aspx?storeid=9359&from=listing",
+				"ImageMain": "https://cdn-images.farfetch-contents.com/13/00/27/04/13002704_14752404_255.jpg",
+				"ImageHover": "https://cdn-images.farfetch-contents.com/13/00/27/04/13002704_14752413_255.jpg",
+				"Description": "silk draped maxi dress",
+				"PriceDisplay": "£940",
+				"PriceSaleDisplay": null,
+				"PercentageOff": null,
+				"PriceWithInstallmentsDisplay": null,
+				"StoreId": 9359,
+				"StoreCountry": null,
+				"Tag": 1,
+				"TagLabel": "New Season",
+				"StockTotal": 21,
+				"DepartmentId": 2921,
+				"AddToWishlistUrl": "/uk/ListingPage/AddToWishlist?productid=13002704&storeid=9359&wishlistitemid=0",
+				"RemoveFromWishlistUrl": "/uk/ListingPage/RemoveFromWishlist?productid=13002704&storeid=9359",
+				"Sale": false,
+				"IsCustomizable": false,
+				"IsCustomizableLabel": "",
+				"RankedManually": false,
+				"AvailableSizes": [{
+						"ScaleId": 0,
+						"Size": "M"
+					},
+					{
+						"ScaleId": 0,
+						"Size": "S"
+					},
+					{
+						"ScaleId": 0,
+						"Size": "XS"
+					},
+					{
+						"ScaleId": 0,
+						"Size": "XXS"
+					},
+					{
+						"ScaleId": 0,
+						"Size": "XXXS"
+					}
+				],
+				"ScaleFriendlyName": "Size (Standard)",
+				"HasAvailableSizes": true,
+				"HasSimilarProducts": true,
+				"SchemaPrice": 940,
+				"SchemaCurrency": "GBP",
+				"SimiliarProductsLabel": "More like this",
+				"SimilarityUrl": "/uk/shopping/women/similarity/items.aspx?productid=13002704",
+				"TargetAttributeValue": "_self"
+			}
+		]
+	}
+}
