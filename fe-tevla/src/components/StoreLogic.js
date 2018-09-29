@@ -10,11 +10,11 @@ exports.filterName = (_list, _name) => {
   let filtered = [];
   let products = _list.slice(0);
 
-  products.map( (p) =>{
-    if (p.DesignerName==_name) {
+  for (let p of products){
+    if (p.DesignerName===_name) {
       filtered.push(p);
     }
-  })
+  }
 
   return filtered;
 
@@ -23,13 +23,13 @@ exports.filterName = (_list, _name) => {
 exports.filterPrice = (_list, _minPrice, _maxPrice) => {
 
   if (_minPrice>_maxPrice) {
-    throw new RangeError('minPrice should be lower than maxPrice');
+    return [];
   }
 
   let filtered = [];
   let products = _list.slice(0);
 
-  products.map( (p) =>{
+  for (let p of products){
     if (p.SchemaPrice>=_minPrice) {
       if (_maxPrice!==undefined){
         if (p.SchemaPrice<=_maxPrice) {
@@ -40,7 +40,7 @@ exports.filterPrice = (_list, _minPrice, _maxPrice) => {
       }
       
     }
-  })
+  }
 
   return filtered;
 };

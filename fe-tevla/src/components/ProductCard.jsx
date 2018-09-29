@@ -10,8 +10,14 @@ class ProductCard extends Component {
 			image: this.props.image
 		}
 
+		this.onClick = this.onClick.bind(this);
+
 		this.onMouseOver = this.onMouseOver.bind(this);
 		this.onMouseOut = this.onMouseOut.bind(this);
+	}
+
+	onClick(e) {
+		window.open(this.props.href,'_blank');
 	}
 
 	onMouseOver(e) {
@@ -29,12 +35,14 @@ class ProductCard extends Component {
 	render() {
 
 		return (
-			<div className='col-md-3 product'>
+			<div className='col-md-3 product' onClick={this.onClick}>
 				<div className='product__card'>
 				  <span className='product__designer'>{this.props.designer}</span>
 				  <br />
 				  <span className='product__price'>{this.props.displayPrice}</span>
-				  <div className='product__image' onMouseOver={this.onMouseOver} onMouseOut={this.onMouseOut}><img src={this.state.image}/></div>
+				  <div className='product__image' onMouseOver={this.onMouseOver} onMouseOut={this.onMouseOut}>
+				  	<img src={this.state.image} alt={this.props.designer + ' product ' + this.props.id}/>
+				  </div>
 				  <div className='product__description'>{this.props.description}</div>
 				</div>
 			</div>

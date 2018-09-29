@@ -1,21 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from '../App';
+
 import Snub from './snub.json';
 
 var assert = require('chai').assert;
 var expect = require('chai').expect;
 
 var StoreLogic  = require('../components/StoreLogic');
-
-describe('Crash Test', () => {
-	it('renders without crashing', () => {
-	  const div = document.createElement('div');
-	  ReactDOM.render(<App />, div);
-	  ReactDOM.unmountComponentAtNode(div);
-	});	
-});
-
 
 describe('Store Logic', () => {
 
@@ -39,8 +30,9 @@ describe('Store Logic', () => {
 		assert.lengthOf(result, 3);
 	});	
 
-	it('filterPrice minPrice is always lesser than maxPrice [2 results expected]', () => {
-		expect(() => StoreLogic.filterPrice(Snub.Products.List, 1500, 500)).to.throw(RangeError);
+	it('filterPrice minPrice is always lesser than maxPrice [array should be empty]', () => {
+		let result = StoreLogic.filterPrice(Snub.Products.List, 1500, 500);
+		assert.lengthOf(result, 0);
 	});		
 
 	it('returns only 2 products where price is between 500 and 2000 [2 results expected]', () => {
